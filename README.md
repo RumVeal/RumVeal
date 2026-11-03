@@ -7,10 +7,11 @@ I'm interested in the place where hardware meets software: embedded systems, dro
 
 ### 🛠 Tech
 **Languages:** C, C++, Python  
-**Tools & libs:** Git, Linux, Kivy, Arduino
+**Tools & libs:** Git, Linux, SQLite, pytest, Kivy, Arduino
 
 ### 🚀 Projects
 - **[ArduinoDrone](https://github.com/RumVeal/Python_Projects/tree/main/ArduinoDrone)** — Android/desktop app for controlling an Arduino drone over Bluetooth *(in progress)*
+- **[VKGameBot](https://github.com/RumVeal/Python_Projects/tree/main/VKGameBot)** — game bot for VK group chats: roulette, rock-paper-scissors, blackjack, points and levels
 - **[C_Projects](https://github.com/RumVeal/C_Projects)** — small programs in C: big number arithmetic, binary converter, qsort, Tic Tac Toe
 
 ### 🌏 Languages
